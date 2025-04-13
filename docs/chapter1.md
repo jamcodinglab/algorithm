@@ -26,9 +26,9 @@
 
 작은 문제는 단순한 방식으로 해결할 수 있지만, 큰 문제는 효율적인 절차인 알고리즘이 필요합니다.
 
-![그림 1.1 비효율적인 방법](../images/chapter1/figure_1.png)
+![그림 1.1 비효율적인 방법](../images/chapter1/figure_01.png)
 
-![그림 1.2 효율적인 방법](../images/chapter1/figure_2.png)
+![그림 1.2 효율적인 방법](../images/chapter1/figure_02.png)
 
 
 
@@ -53,7 +53,7 @@
 - 삽입 (Insert)
 - 삭제 (Delete)
 
-![그림 2.1 배열](../images/chapter1/figure_3.png)
+![그림 2.1 배열](../images/chapter1/figure_03.png)
 
 
 
@@ -61,7 +61,7 @@
 
 배열의 인덱스를 통해 데이터에 한 단계만에 접근할 수 있습니다.
 
-![그림 3.1 배열 구조](../images/chapter1/figure_4.png)
+![그림 3.1 배열 구조](../images/chapter1/figure_04.png)
 
 
 
@@ -69,13 +69,13 @@
 
 배열에 특정 값이 존재하는지 확인하는 과정입니다.
 
-![그림 4.1 배열](../images/chapter1/figure_5.png)
+![그림 4.1 배열](../images/chapter1/figure_05.png)
 
-![그림 4.2 검색 1단계](../images/chapter1/figure_6.png)
+![그림 4.2 검색 1단계](../images/chapter1/figure_06.png)
 
-![그림 4.3 검색 2단계](../images/chapter1/figure_7.png)
+![그림 4.3 검색 2단계](../images/chapter1/figure_07.png)
 
-![그림 4.4 검색 3단계](../images/chapter1/figure_8.png)
+![그림 4.4 검색 3단계](../images/chapter1/figure_08.png)
 
 
 
