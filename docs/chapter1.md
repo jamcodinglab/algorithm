@@ -26,9 +26,9 @@
 
 작은 문제는 단순한 방식으로 해결할 수 있지만, 큰 문제는 효율적인 절차인 알고리즘이 필요합니다.
 
-![그림 1.1 비효율적인 방법](images/chapter1/figure_1.png)
+![그림 1.1 비효율적인 방법](../images/chapter1/figure_1.png)
 
-![그림 1.2 효율적인 방법](images/chapter1/figure_2.png)
+![그림 1.2 효율적인 방법](../images/chapter1/figure_2.png)
 
 
 
@@ -53,7 +53,7 @@
 - 삽입 (Insert)
 - 삭제 (Delete)
 
-![그림 2.1 배열](images/chapter1/figure_3.png)
+![그림 2.1 배열](../images/chapter1/figure_3.png)
 
 
 
@@ -61,7 +61,7 @@
 
 배열의 인덱스를 통해 데이터에 한 단계만에 접근할 수 있습니다.
 
-![그림 3.1 배열 구조](images/chapter1/figure_4.png)
+![그림 3.1 배열 구조](../images/chapter1/figure_4.png)
 
 
 
@@ -69,13 +69,13 @@
 
 배열에 특정 값이 존재하는지 확인하는 과정입니다.
 
-![그림 4.1 배열](images/chapter1/figure_5.png)
+![그림 4.1 배열](../images/chapter1/figure_5.png)
 
-![그림 4.2 검색 1단계](images/chapter1/figure_6.png)
+![그림 4.2 검색 1단계](../images/chapter1/figure_6.png)
 
-![그림 4.3 검색 2단계](images/chapter1/figure_7.png)
+![그림 4.3 검색 2단계](../images/chapter1/figure_7.png)
 
-![그림 4.4 검색 3단계](images/chapter1/figure_8.png)
+![그림 4.4 검색 3단계](../images/chapter1/figure_8.png)
 
 
 
@@ -83,17 +83,17 @@
 
 배열의 맨 뒤에 삽입은 효율적이나, 중간이나 앞에 삽입하면 많은 이동이 필요합니다.
 
-![그림 5.1 배열 끝에 원소 삽입](images/chapter1/figure_13.png)
+![그림 5.1 배열 끝에 원소 삽입](../images/chapter1/figure_13.png)
 
-![그림 5.2 초기 배열](images/chapter1/figure_14.png)
+![그림 5.2 초기 배열](../images/chapter1/figure_14.png)
 
-![그림 5.3 3을 뒤로 이동](images/chapter1/figure_15.png)
+![그림 5.3 3을 뒤로 이동](../images/chapter1/figure_15.png)
 
-![그림 5.4 10을 뒤로 이동](images/chapter1/figure_16.png)
+![그림 5.4 10을 뒤로 이동](../images/chapter1/figure_16.png)
 
-![그림 5.5 4를 뒤로 이동](images/chapter1/figure_17.png)
+![그림 5.5 4를 뒤로 이동](../images/chapter1/figure_17.png)
 
-![그림 5.6 100 삽입](images/chapter1/figure_19.png)
+![그림 5.6 100 삽입](../images/chapter1/figure_19.png)
 
 
 
@@ -101,9 +101,9 @@
 
 배열에서 원소를 제거하면 뒤 원소들을 앞으로 이동시켜야 합니다.
 
-![그림 6.1 배열 끝 원소 삭제](images/chapter1/figure_21.png)
+![그림 6.1 배열 끝 원소 삭제](../images/chapter1/figure_21.png)
 
-![그림 6.2 배열 앞 원소 삭제](images/chapter1/figure_22.png)
+![그림 6.2 배열 앞 원소 삭제](../images/chapter1/figure_22.png)
 
 
 
@@ -114,4 +114,4 @@
 - 삽입: 최대 N+1단계
 - 삭제: 최대 N단계
 
-![그림 7.1 흰 띠](images/chapter1/figure_23.png)
+![그림 7.1 흰 띠](../images/chapter1/figure_23.png)
